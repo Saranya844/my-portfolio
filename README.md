@@ -14,7 +14,7 @@ I'm excited to share my personal portfolio website — a space where I showcase 
     And, of course, a strong dose of curiosity and creativity 😄
 
     Here is my website  https://saranya844.github.io/my-portfolio/
-                      feel free to explore! It's a responsive, interactive, and stylish website designed with attention to detail.
+                feel free to explore! It's a responsive, interactive, and stylish website designed with attention to detail.
 
 🛠️ Always Learning, Always Improving
               This portfolio is more than just a static showcase — it’s a growing project that reflects my ongoing development as a front-end developer. If you have feedback, ideas, or just want to connect, feel free to reach out!
