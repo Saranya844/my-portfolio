@@ -191,7 +191,7 @@ main{
 #home{
    height: 100vh;
     width: 100%;
-    background-image: url(../img/background.jpg);
+    background-image: url(img/background.jpg);
     background-size: cover;
     background-attachment: fixed;
     justify-content: center;
@@ -873,4 +873,5 @@ main{
     #contact{
         padding: 50px 10px;
     }
+
 }
